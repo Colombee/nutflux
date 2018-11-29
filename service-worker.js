@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nutflux/precache-manifest.45d4e68a065fa421be75011320f2acf3.js"
+  "/nutflux/precache-manifest.5f456831e90cf465f66f6fff90520053.js"
 );
 
 workbox.clientsClaim();

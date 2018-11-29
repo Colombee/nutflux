@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/nutflux/static/js/runtime~main.848c47bd.js"
   },
   {
-    "revision": "05523c7dbb89a68b4156",
-    "url": "/nutflux/static/js/main.05523c7d.chunk.js"
+    "revision": "34eb7115f359aa085cd9",
+    "url": "/nutflux/static/js/main.34eb7115.chunk.js"
   },
   {
     "revision": "4c393b2e2adabba373cd",
     "url": "/nutflux/static/js/1.4c393b2e.chunk.js"
   },
   {
-    "revision": "05523c7dbb89a68b4156",
+    "revision": "34eb7115f359aa085cd9",
     "url": "/nutflux/static/css/main.ec9911e9.chunk.css"
   },
   {
-    "revision": "d9f63dcc99431057676a06e5898ee7fa",
+    "revision": "5531c79e8eb4f3e1e6216c314cc8f61f",
     "url": "/nutflux/index.html"
   }
 ];
